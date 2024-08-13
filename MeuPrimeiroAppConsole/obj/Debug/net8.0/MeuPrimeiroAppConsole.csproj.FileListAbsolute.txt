@@ -1,0 +1,14 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\bin\Debug\net8.0\MeuPrimeiroAppConsole.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\bin\Debug\net8.0\MeuPrimeiroAppConsole.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\bin\Debug\net8.0\MeuPrimeiroAppConsole.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\bin\Debug\net8.0\MeuPrimeiroAppConsole.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\bin\Debug\net8.0\MeuPrimeiroAppConsole.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\obj\Debug\net8.0\refint\MeuPrimeiroAppConsole.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Faculdade\laboratório de programação\hello-world\MeuPrimeiroAppConsole\obj\Debug\net8.0\ref\MeuPrimeiroAppConsole.dll
